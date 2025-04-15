@@ -53,3 +53,7 @@ From there you will just have to press Shift + Enter to run each cell and each o
 should run the code to generate the tables and execute the plot or just go ahead and click 'Run All'.
 
 After that, all of the codes should be running and show all the needed plots and results.
+
+### Authors
+Godswill Effi 
+Omoyeni Kuku
