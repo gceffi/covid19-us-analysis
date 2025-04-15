@@ -55,5 +55,6 @@ should run the code to generate the tables and execute the plot or just go ahead
 After that, all of the codes should be running and show all the needed plots and results.
 
 ### Authors
-Godswill Effi 
+Godswill Effi
+
 Omoyeni Kuku
